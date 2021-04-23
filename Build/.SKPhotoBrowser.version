@@ -1,0 +1,10 @@
+{
+  "commitish" : "6.1.0",
+  "iOS" : [
+    {
+      "name" : "SKPhotoBrowser",
+      "hash" : "6d33b79841826a5c310d4d1ce041331003c2d25c0b818b003813132e12707cd0",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    }
+  ]
+}
